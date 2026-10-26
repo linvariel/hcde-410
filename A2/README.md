@@ -3,7 +3,7 @@ Exercises and assignments for HCDE410: Human Data Interaction. Everything here i
 # HCDE410
 Files for HCDE410 - Assignment A2
 
-# A1 — Working with Open Data
+# A2 — Exploring sources of bias in data 
 
 **Dataset:** Wikipedia Talk Corpus
 
