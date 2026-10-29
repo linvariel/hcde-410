@@ -26,6 +26,10 @@ Open `A3_watching_the_machine_starter.ipynb` and run the cells. The only depende
 
 The notebook does not fetch external data. It loads two CSV files you create from your own runs and field notes: `a3_runs.csv` and `a3_codes.csv`. Header-only templates of both are included in this folder; open them in Google Sheets or Excel, fill them in, download as CSV, and upload them here with the same names.
 
+## Sources
+[Whitman County 2026 Primary Election Results](https://app.enhancedvoting.com/results/public/whitman-county-wa/elections/20260804)
+[2026 Washington State Primary Election Ballot Return Statistics](https://app.enhancedvoting.com/results/public/whitman-county-wa/elections/20260804)
+
 ## License
 
 Released under the MIT License — see [`LICENSE`](./LICENSE).
